@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Style CheckBox</string>
+    <string name="edit_text">edit text</string>
+
+    <string name="negrita">Negrita</string>
+    <string name="cursiva">Cursiva</string>
+</resources>
